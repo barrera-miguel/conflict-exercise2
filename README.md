@@ -1,3 +1,3 @@
 # conflict-exercise2
 
-Este es un cambio en la main branch.
+Este es una modificación en la main branch.
